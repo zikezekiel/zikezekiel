@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zikezekiel
-- 👀 I’m interested in Data and DevOps
-- 🌱 I’m currently learning Python and Javascript
+- 👀 I’m a Data Analyst
+- 🌱 I’m currently using Python for my analysis while learning SQL and R.
 
 
 <!---
