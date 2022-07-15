@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zikezekiel
 - 👀 I’m a Data Analyst
-- 🌱 I’m currently using Python for my analysis while learning SQL and R.
+- 🌱 I’m currently using Python and SQL for my analysis while learning R.
 
 
 <!---
