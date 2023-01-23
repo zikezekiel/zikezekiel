@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ezekiel
 - 👀 I’m a Data Analyst
-- 🌱 I’m use Python, SQL, Excel, PowerBI and Tableau.
+- 🌱 I use Python, SQL, Excel, PowerBI and Tableau.
 
 
 <!---
